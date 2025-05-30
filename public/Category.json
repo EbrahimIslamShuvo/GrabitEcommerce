@@ -1,0 +1,195 @@
+[
+    {
+      "id": 1,
+      "sector": "Dairy",
+      "categories": [
+        {
+          "categoryId": 1,
+          "categoryName": "Milk"
+        },
+        {
+          "categoryId": 2,
+          "categoryName": "Cheese"
+        },
+        {
+          "categoryId": 3,
+          "categoryName": "Butter"
+        },
+        {
+          "categoryId": 4,
+          "categoryName": "Yogurt"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sector": "Bakery",
+      "categories": [
+        {
+          "categoryId": 5,
+          "categoryName": "Bread"
+        },
+        {
+          "categoryId": 6,
+          "categoryName": "Cakes"
+        },
+        {
+          "categoryId": 7,
+          "categoryName": "Pastries"
+        },
+        {
+          "categoryId": 8,
+          "categoryName": "Cookies"
+        },
+        {
+          "categoryId": 9,
+          "categoryName": "Muffins"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sector": "Fruit",
+      "categories": [
+        {
+          "categoryId": 10,
+          "categoryName": "Apples"
+        },
+        {
+          "categoryId": 11,
+          "categoryName": "Bananas"
+        },
+        {
+          "categoryId": 12,
+          "categoryName": "Oranges"
+        },
+        {
+          "categoryId": 13,
+          "categoryName": "Grapes"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sector": "Vegetable",
+      "categories": [
+        {
+          "categoryId": 14,
+          "categoryName": "Tomatoes"
+        },
+        {
+          "categoryId": 15,
+          "categoryName": "Carrots"
+        },
+        {
+          "categoryId": 16,
+          "categoryName": "Cucumbers"
+        },
+        {
+          "categoryId": 17,
+          "categoryName": "Lettuce"
+        },
+        {
+          "categoryId": 18,
+          "categoryName": "Spinach"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sector": "Snack",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryName": "Chips"
+        },
+        {
+          "categoryId": 20,
+          "categoryName": "Nuts"
+        },
+        {
+          "categoryId": 21,
+          "categoryName": "Popcorn"
+        },
+        {
+          "categoryId": 22,
+          "categoryName": "Granola Bars"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sector": "Spice",
+      "categories": [
+        {
+          "categoryId": 23,
+          "categoryName": "Black Pepper"
+        },
+        {
+          "categoryId": 24,
+          "categoryName": "Cumin"
+        },
+        {
+          "categoryId": 25,
+          "categoryName": "Turmeric"
+        },
+        {
+          "categoryId": 26,
+          "categoryName": "Cinnamon"
+        },
+        {
+          "categoryId": 27,
+          "categoryName": "Chili Powder"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sector": "Juice",
+      "categories": [
+        {
+          "categoryId": 28,
+          "categoryName": "Orange Juice"
+        },
+        {
+          "categoryId": 29,
+          "categoryName": "Apple Juice"
+        },
+        {
+          "categoryId": 30,
+          "categoryName": "Carrot Juice"
+        },
+        {
+          "categoryId": 31,
+          "categoryName": "Grape Juice"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sector": "Drink",
+      "categories": [
+        {
+          "categoryId": 32,
+          "categoryName": "Soda"
+        },
+        {
+          "categoryId": 33,
+          "categoryName": "Energy Drinks"
+        },
+        {
+          "categoryId": 34,
+          "categoryName": "Water"
+        },
+        {
+          "categoryId": 35,
+          "categoryName": "Tea"
+        },
+        {
+          "categoryId": 36,
+          "categoryName": "Coffee"
+        }
+      ]
+    }
+  ]
+  
